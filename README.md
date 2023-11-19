@@ -2,7 +2,7 @@
 - ✏️ I'm a Junior at the University of Nebraska-Lincoln majoring in Computer Science
 - 🌱 I’m currently learning Java
 - 🩷 I enjoy Anime, YouTube, videogames, volleyball, music, and more!
-- 🥇 Global #1 most Cryosthesia 77K defeats in Destiny 2
+- 🥇 Most Cryosthesia 77K defeats globally in Destiny 2
 - 📽️ My YouTube channel -> https://youtube.com/@Manstrual
 
 <!---
