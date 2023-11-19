@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChaseBorchers!
 - ✏️ I'm a Junior at the University of Nebraska-Lincoln majoring in Computer Science
 - 🌱 I’m currently learning Java
-- 🩷 I enjoy Anime, YouTube, videogames, volleyball, music, and more!
+- 🩷 I enjoy YouTube, videogames, anime, music, Nebraska volleyball, and more!
 - 🥇 Most Cryosthesia 77K defeats globally in Destiny 2
 - 📽️ My YouTube channel -> https://youtube.com/@Manstrual
 
