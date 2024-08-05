@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ChaseBorchers!
-- ✏️ I'm a Junior at the University of Nebraska-Lincoln majoring in Computer Science
-- 🌱 I’m currently learning Java
-- 🩷 I enjoy YouTube, videogames, anime, music, Nebraska volleyball, and more!
-- 🥇 Global #1 Cryosthesia 77K defeats in Destiny 2
-- 📽️ My YouTube channel -> https://youtube.com/@Manstrual
+- 👋 Hi, I’m @ChaseBorchers
+- ✏️ Senior at the University of Nebraska-Lincoln, majoring in Computer Science
+- 🌱 Currently learning how to become more private online
+- 🧠 Experience with Java, JavaScript, Python, and of all languages... MATLAB
+- 🩷 YouTube, videogames, anime, music, and Nebraska volleyball
 
 <!---
 ChaseBorchers/ChaseBorchers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
